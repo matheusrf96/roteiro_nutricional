@@ -8,7 +8,7 @@
                 <label for="horario">Horário</label>
             </div>
 
-            <button class="btn waves-effect waves-light blue lighten-2" type="submit" name="action" onClick="return validacao()">Enviar
+            <button class="btn waves-effect waves-light blue lighten-2" type="submit" name="action">Enviar
                 <i class="material-icons right white-text">send</i>
             </button>
         </form>
